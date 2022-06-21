@@ -20,19 +20,19 @@ This is about serious issues which will cause something similar to one of the fo
 
 
 
-## Japanese Games With Issues Running on US Super System BIOS
+## Japanese Games With Issues Running on US Super System BIOS:
 
  - A.III - Takin' the A Train
  - Alshark
  - Bonanza Brothers
 (list may be incomplete)
 
-## Additional compatibility information
+## Additional compatibility information:
 
 The below list includes information for compatibility with special
 features or hardware, which may not be obvious:
 
-### Mouse
+### Mouse:
 
  - 1552 Tenka Tairan
  - A. III - Takin' the A Train
@@ -51,7 +51,7 @@ features or hardware, which may not be obvious:
  - Tokimeki Memorial
  - Vasteel 2
 
-### Memory Base 128
+### Memory Base 128:
 
  - A. III - Takin' the A Train
  - Atlas Renaissance Voyage
@@ -77,7 +77,7 @@ features or hardware, which may not be obvious:
  - Tadaima Yuusha Boshuuchuu
  - Vasteel 2
 
-### 6-Button Controller
+### 6-Button Controller:
 
 #### HuCard
 
@@ -105,7 +105,7 @@ features or hardware, which may not be obvious:
  - World Heroes 2
  - Ys IV
 
-### XE-1AP / XHE-3 Analog controller
+### XE-1AP / XHE-3 Analog controller:
 
  - Afterurner II
  - Forgotten Worlds
