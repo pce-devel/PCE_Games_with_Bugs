@@ -43,7 +43,7 @@ Reference: [kanae.5ch.net/test/read.cgi/retro2/1368533528/](kanae.5ch.net/test/r
 
 A warning card was included in the game, to instruct users not to do certain things, as errors would occur.
 
-![Card](/assets/images/MonsterMaker.jpg)
+![Card](/blob/main/images/MonsterMaker.jpg)
 
 (I will follow up with translation and further details)
 
