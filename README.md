@@ -4,6 +4,22 @@ This repository is intended to hold information about games which
 have bugs or known issues. Where possible, references to source
 information will be cited.
 
+## General Issues
+
+**Note:**
+I am not talking about "if you go to this place, it will warp you somewhere because of a bug"; that's more of an easter egg if you aren't seriously harmed.
+I'm also not talking about poor controls, or bad collision detection.
+
+I am talking about serious issues which will cause something similar to one of the following:
+ 1. Authors recognizing an error big enough to issue a re-pressing of the game as a correction (need details so that bad games can be identified)
+ 2. Game includes a Warning message, to inform players not to do something (hopefully we can get details)
+ 3. Game-halting error
+ 4. Wipeout of save data
+
+Individual game information will be found in its own folder on a game-by-game basis.
+
+
+
 ## Japanese Games With Issues Running on US Super System BIOS
 
  - A.III - Takin' the A Train
