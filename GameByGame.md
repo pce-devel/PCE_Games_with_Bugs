@@ -21,21 +21,21 @@ form, the game will stop progressing at that point.  A "fix" version reportedly 
 
 This website calls it a "storm" of bugs:
 
-Reference: [gokigirl.blog40.fc2.com/blog-entry-209.html](gokigirl.blog40.fc2.com/blog-entry-209.html)
+Reference: [http://gokigirl.blog40.fc2.com/blog-entry-209.html](http://gokigirl.blog40.fc2.com/blog-entry-209.html)
 
 
 ## Jaseikin Necromancer:
 
 Numerous bugs, see here:
 
-Reference: [slappin-beats.sakura.ne.jp/necro/](slappin-beats.sakura.ne.jp/necro/)
+Reference: [http://slappin-beats.sakura.ne.jp/necro/](http://slappin-beats.sakura.ne.jp/necro/)
 
 
 ## Linda 3:
 
 In Scenario B, the game freezes when Track 28 is used to play background music
 
-Reference: [kanae.5ch.net/test/read.cgi/retro2/1368533528/](kanae.5ch.net/test/read.cgi/retro2/1368533528/) , item #71)
+Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , item #71)
 
 
 
@@ -54,7 +54,7 @@ In a Stage including Time Bonuses, if you collect over 65536 points, the points 
 there is a bug with the NEXT EXP, which in reality makes it impossible to complete the game
 (16,770,000 needed, or something like that).
 
-Reference: [kanae.5ch.net/test/read.cgi/retro2/1368533528/](kanae.5ch.net/test/read.cgi/retro2/1368533528/) , second part in item #71
+Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , second part in item #71
 
 
 ## Shiryou Sensen (War of the Dead)
@@ -65,20 +65,20 @@ of the sapphire if you exceed 5000 points (the game can be cleared with only 200
  - In chapter 8, you should evaluate your inventory ad eliminate any unused items. Apparently,
 issues may appear (due to bugs) if these are taken into Chapter 9.
 
-Reference: [eggerland.s33.xrea.com/minors/warofdead.html](eggerland.s33.xrea.com/minors/warofdead.html)
+Reference: [http://eggerland.s33.xrea.com/minors/warofdead.html](http://eggerland.s33.xrea.com/minors/warofdead.html)
 
 ## Super Darius II
 
 There seems to be a freeze issue in Zone Z ("Hirame" = Flounder), which causes a freeze.
 
-Reference: [kanae.5ch.net/test/read.cgi/retro2/1368533528/](kanae.5ch.net/test/read.cgi/retro2/1368533528/)   item #28
+Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/)   item #28
 
 
 ## Tokimeki Memorial:
 
 Multiple pressings due to bugs.
 
-Reference: [www.big.or.jp/~tokimeki/lib/pcev.htm](www.big.or.jp/~tokimeki/lib/pcev.htm)
+Reference: [http://www.big.or.jp/~tokimeki/lib/pcev.htm](http://www.big.or.jp/~tokimeki/lib/pcev.htm)
 
 (I'll follow up to get this translated soon)
 
@@ -87,7 +87,7 @@ Reference: [www.big.or.jp/~tokimeki/lib/pcev.htm](www.big.or.jp/~tokimeki/lib/pc
 
 Several bugs related to battery backup memory, if the memory is full or nearly full at game start.
 
-Reference: [workshop.game.coocan.jp/pceside/sittoku.htm#tengai2bug](workshop.game.coocan.jp/pceside/sittoku.htm#tengai2bug)
+Reference: [http://workshop.game.coocan.jp/pceside/sittoku.htm#tengai2bug](http://workshop.game.coocan.jp/pceside/sittoku.htm#tengai2bug)
 
 The article seems to imply that a second pressing went out, but I can't find information on that (or how to identify which is which).
 
