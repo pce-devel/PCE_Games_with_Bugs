@@ -1,2 +1,98 @@
 # PCE_Games_with_Bugs
-Documents regarding games with bugs
+
+This repository is intended to hold information about games which
+have bugs or known issues. Where possible, references to source
+information will be cited.
+
+## Japanese Games With Issues Running on US Super System BIOS
+
+ - A.III - Takin' the A Train
+ - Alshark
+ - Bonanza Brothers
+(list may be incomplete)
+
+## Additional compatibility information
+
+The below list includes information for compatibility with special
+features or hardware, which may not be obvious:
+
+### Mouse
+
+ - 1552 Tenka Tairan
+ - A. III - Takin' the A Train
+ - Atlas Renaissance Voyage
+ - Brandish
+ - Dennou Tenshi Digital Angel
+ - Doukyuusei
+ - Eikan ha Kimini - Koukou Yakyuu Zenkoku Taikai
+ - Hatsukoi Monogatari
+ - Jantei Monogatari III - Saver Angels
+ - Lemmings
+ - Metal Angel
+ - Nemurenumori no Chiisana Ohanashi
+ - Power Golf 2 Golfer
+ - Princess Maker 2
+ - Tokimeki Memorial
+ - Vasteel 2
+
+### Memory Base 128
+
+ - A. III - Takin' the A Train
+ - Atlas Renaissance Voyage
+ - Bishoujo Senshi Sailor Moon Collection
+ - Brandish
+ - Eikan ha Kimini - Koukou Yakyuu Zenkoku Taikai
+ - Emerald Dragon
+ - Fire Pro Jyoshi - Dome Choujyo Taisen
+ - Ganchouhishi - Aoki Ookami to Shiroki Mejika
+ - Linda Cube
+ - Magicoal
+ - Mahojng Sword Princess Quest Gaiden
+ - Nobunaga no Yabou - Bushou Fuuunroku
+ - Nobunaga no Yabou Zenkokuban
+ - Popful Mail
+ - Princess Maker 2
+ - Private Eye Dol
+ - Sankokushi III
+ - Shin Megami Tensei
+ - Super Mahjong Taikai
+ - Super Real Mahjong P II - P III Custom
+ - Super Real Mahjong P V Custom
+ - Tadaima Yuusha Boshuuchuu
+ - Vasteel 2
+
+### 6-Button Controller
+
+#### HuCard
+
+ - Street Fighter II Dash
+
+#### CDROM
+
+ - Advanced Variable Geo
+ - Battlefield '94 in Tokyo Dome
+ - Emerald Dragon
+ - Fire Pro Jyoshi - Dome Choujyo Taisen
+ - Flash Hiders
+ - Garou Densetsu II - Aratanaru Tatakai
+ - Garou Densetsu Special
+ - Kakutou Haou Densetsu Algunos
+ - Linda Cube
+ - Mahojng Sword Princess Quest Gaiden
+ - Martial Champions
+ - Princess Maker 2
+ - Ryuuko no Ken
+ - Sotsugyou II - Neo Generation
+ - Super Real Mahjong P II - P III Custom
+ - Super Real Mahjong P V Custom
+ - Tengai Makyo - Kabuki Itouryodan
+ - World Heroes 2
+ - Ys IV
+
+### XE-1AP / XHE-3 Analog controller
+
+ - Afterurner II
+ - Forgotten Worlds
+ - Operation Wolf
+ - Outrun
+
