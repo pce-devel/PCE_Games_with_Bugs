@@ -16,8 +16,9 @@ This is about serious issues which will cause something similar to one of the fo
 
 Numerous bugs, see here:
 
-Reference: [http://slappin-beats.sakura.ne.jp/necro/](http://slappin-beats.sakura.ne.jp/necro/)
-[Google-Translated to English](https://slappin--beats-sakura-ne-jp.translate.goog/necro/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
+> Reference: [http://slappin-beats.sakura.ne.jp/necro/](http://slappin-beats.sakura.ne.jp/necro/)
+
+> [Google-Translated to English](https://slappin--beats-sakura-ne-jp.translate.goog/necro/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
 ### Shiryou Sensen (War of the Dead)
 
