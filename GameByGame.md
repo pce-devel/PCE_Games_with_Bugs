@@ -27,7 +27,7 @@ of the sapphire if you exceed 5000 points (the game can be cleared with only 200
  - In chapter 8, you should evaluate your inventory ad eliminate any unused items. Apparently,
 issues may appear (due to bugs) if these are taken into Chapter 9.
 
-Reference: [http://eggerland.s33.xrea.com/minors/warofdead.html](http://eggerland.s33.xrea.com/minors/warofdead.html)
+> Reference: [http://eggerland.s33.xrea.com/minors/warofdead.html](http://eggerland.s33.xrea.com/minors/warofdead.html) (section at the top, before '(1)')
 
 
 ### Youkai Douchuuki
@@ -48,14 +48,16 @@ form, the game will stop progressing at that point.  A "fix" version reportedly 
 
 This website calls it a "storm" of bugs:
 
-Reference: [http://gokigirl.blog40.fc2.com/blog-entry-209.html](http://gokigirl.blog40.fc2.com/blog-entry-209.html)
+> Reference: [http://gokigirl.blog40.fc2.com/blog-entry-209.html](http://gokigirl.blog40.fc2.com/blog-entry-209.html)<br>
+> [Google-Translated to English](https://gokigirl-blog40-fc2-com.translate.goog/blog-entry-209.html?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
 
 ### Linda 3:
 
 In Scenario B, the game freezes when Track 28 is used to play background music
 
-Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , item #71)
+> Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , item #71)<br>
+> [Google-Translated to English](https://kanae-5ch-net.translate.goog/test/read.cgi/retro2/1368533528/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
 
 ### Monster Maker:
@@ -73,21 +75,24 @@ In a Stage including Time Bonuses, if you collect over 65536 points, the points 
 there is a bug with the NEXT EXP, which in reality makes it impossible to complete the game
 (16,770,000 needed, or something like that).
 
-Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , second part in item #71
+> Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , second part in item #71<br>
+> [Google-Translated to English](https://kanae-5ch-net.translate.goog/test/read.cgi/retro2/1368533528/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
 
 ### Super Darius II
 
 There seems to be a freeze issue in Zone Z ("Hirame" = Flounder), which causes a freeze.
 
-Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/)   item #28
+> Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/)   item #28<br>
+> [Google-Translated to English](https://kanae-5ch-net.translate.goog/test/read.cgi/retro2/1368533528/?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 
 
 ### Tokimeki Memorial:
 
 Multiple pressings due to bugs.
 
-Reference: [http://www.big.or.jp/~tokimeki/lib/pcev.htm](http://www.big.or.jp/~tokimeki/lib/pcev.htm)
+> Reference: [http://www.big.or.jp/~tokimeki/lib/pcev.htm](http://www.big.or.jp/~tokimeki/lib/pcev.htm)<br>
+> [Google-Translated to English]()
 
 (I'll follow up to get this translated soon)
 
@@ -96,7 +101,8 @@ Reference: [http://www.big.or.jp/~tokimeki/lib/pcev.htm](http://www.big.or.jp/~t
 
 Several bugs related to battery backup memory, if the memory is full or nearly full at game start.
 
-Reference: [http://workshop.game.coocan.jp/pceside/sittoku.htm#tengai2bug](http://workshop.game.coocan.jp/pceside/sittoku.htm#tengai2bug)
+> Reference: [http://workshop.game.coocan.jp/pceside/sittoku.htm#tengai2bug](http://workshop.game.coocan.jp/pceside/sittoku.htm#tengai2bug)<br>
+> [Google-Translated to English](https://workshop-game-coocan-jp.translate.goog/pceside/sittoku.htm?_x_tr_sch=http&_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp#tengai2bug)
 
 The article seems to imply that a second pressing went out, but I can't find information on that (or how to identify which is which).
 
