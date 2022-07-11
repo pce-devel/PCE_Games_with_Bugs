@@ -92,7 +92,6 @@ There seems to be a freeze issue in Zone Z ("Hirame" = Flounder), which causes a
 Multiple pressings due to bugs.
 
 > Reference: [http://www.big.or.jp/~tokimeki/lib/pcev.htm](http://www.big.or.jp/~tokimeki/lib/pcev.htm)<br>
-> [Google-Translated to English]()
 
 (I'll follow up to get this translated soon)
 
