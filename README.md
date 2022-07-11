@@ -7,8 +7,8 @@ information will be cited.
 ## General Issues
 
 **Note:**
-This is not about situations like "if you go to this place, it will warp you somewhere because of a bug"; that's more of an easter egg if you aren't seriously harmed.
-This is not about poor controls, or bad collision detection.
+This is not about situations like "if you go to this place, it will warp you somewhere because of a bug"; that's
+more of an easter egg if you aren't seriously harmed.  This is not about poor controls, or bad collision detection.
 
 This is about serious issues which will cause something similar to one of the following:
  1. Authors recognizing an error big enough to issue a re-pressing of the game as a correction (need details so that bad games can be identified)
@@ -25,12 +25,15 @@ This is about serious issues which will cause something similar to one of the fo
  - A.III - Takin' the A Train
  - Alshark
  - Bonanza Brothers
-(list may be incomplete)
+
+(This list may be incomplete; contact me if you think have found more examples)
+
 
 ## Additional compatibility information:
 
 The below list includes information for compatibility with special
 features or hardware, which may not be obvious:
+
 
 ### Mouse:
 
@@ -50,6 +53,7 @@ features or hardware, which may not be obvious:
  - Princess Maker 2
  - Tokimeki Memorial
  - Vasteel 2
+
 
 ### Memory Base 128:
 
@@ -76,6 +80,7 @@ features or hardware, which may not be obvious:
  - Super Real Mahjong P V Custom
  - Tadaima Yuusha Boshuuchuu
  - Vasteel 2
+
 
 ### 6-Button Controller:
 
@@ -105,10 +110,24 @@ features or hardware, which may not be obvious:
  - World Heroes 2
  - Ys IV
 
+
 ### XE-1AP / XHE-3 Analog controller:
 
  - Afterurner II
  - Forgotten Worlds
  - Operation Wolf
  - Outrun
+
+
+### Pachinko Controller:
+
+#### HuCard
+
+ - Pachiokun Juuban Shoubu
+
+#### CDROM
+
+ - Pachiokun Maboroshi no Densetsu
+ - Pachiokun Warau Uchuu
+ - Pachiokun III - Pachisuro & Pachinko
 

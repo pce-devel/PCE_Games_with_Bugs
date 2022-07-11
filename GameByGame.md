@@ -10,54 +10,16 @@ This is about serious issues which will cause something similar to one of the fo
  3. Game-halting error
  4. Wipeout of save data
 
-## Altered Beast (CD-ROM)
+## HuCard
 
-If you run it on a System Card other than version 1.0, then power up twice to get the altered
-form, the game will stop progressing at that point.  A "fix" version reportedly exists
-(although I have never seen one), but that version is also reported to have bugs.
-
-
-## Arunama No Kiba:
-
-This website calls it a "storm" of bugs:
-
-Reference: [http://gokigirl.blog40.fc2.com/blog-entry-209.html](http://gokigirl.blog40.fc2.com/blog-entry-209.html)
-
-
-## Jaseikin Necromancer:
+### Jaseikin Necromancer:
 
 Numerous bugs, see here:
 
 Reference: [http://slappin-beats.sakura.ne.jp/necro/](http://slappin-beats.sakura.ne.jp/necro/)
 
 
-## Linda 3:
-
-In Scenario B, the game freezes when Track 28 is used to play background music
-
-Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , item #71)
-
-
-
-## Monster Maker:
-
-A warning card was included in the game, to instruct users not to do certain things, as errors would occur.
-
-![Card](/images/MonsterMaker.jpg)
-
-(I will follow up with translation and further details)
-
-
-## Puyo Puyo 2 CD
-
-In a Stage including Time Bonuses, if you collect over 65536 points, the points will overflow, and
-there is a bug with the NEXT EXP, which in reality makes it impossible to complete the game
-(16,770,000 needed, or something like that).
-
-Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , second part in item #71
-
-
-## Shiryou Sensen (War of the Dead)
+### Shiryou Sensen (War of the Dead)
 
  - If you acquire 15 or more items, bugs appear, so don't exceed 13 items.
  - If you acquire too many experience points (9999), bugs appear, so you may want to get rid
@@ -67,14 +29,61 @@ issues may appear (due to bugs) if these are taken into Chapter 9.
 
 Reference: [http://eggerland.s33.xrea.com/minors/warofdead.html](http://eggerland.s33.xrea.com/minors/warofdead.html)
 
-## Super Darius II
+
+### Youkai Douchuuki
+
+ - Not compatible with multitap adapter; if the multitap ic connected, it appears to be make the machine go dead
+
+
+## CDROM
+
+### Altered Beast (CD-ROM)
+
+If you run it on a System Card other than version 1.0, then power up twice to get the altered
+form, the game will stop progressing at that point.  A "fix" version reportedly exists
+(although I have never seen one), but that version is also reported to have bugs.
+
+
+### Arunama No Kiba:
+
+This website calls it a "storm" of bugs:
+
+Reference: [http://gokigirl.blog40.fc2.com/blog-entry-209.html](http://gokigirl.blog40.fc2.com/blog-entry-209.html)
+
+
+### Linda 3:
+
+In Scenario B, the game freezes when Track 28 is used to play background music
+
+Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , item #71)
+
+
+### Monster Maker:
+
+A warning card was included in the game, to instruct users not to do certain things, as errors would occur.
+
+![Card](/images/MonsterMaker.jpg)
+
+(I will follow up with translation and further details)
+
+
+### Puyo Puyo 2 CD
+
+In a Stage including Time Bonuses, if you collect over 65536 points, the points will overflow, and
+there is a bug with the NEXT EXP, which in reality makes it impossible to complete the game
+(16,770,000 needed, or something like that).
+
+Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/) , second part in item #71
+
+
+### Super Darius II
 
 There seems to be a freeze issue in Zone Z ("Hirame" = Flounder), which causes a freeze.
 
 Reference: [http://kanae.5ch.net/test/read.cgi/retro2/1368533528/](http://kanae.5ch.net/test/read.cgi/retro2/1368533528/)   item #28
 
 
-## Tokimeki Memorial:
+### Tokimeki Memorial:
 
 Multiple pressings due to bugs.
 
@@ -83,7 +92,7 @@ Reference: [http://www.big.or.jp/~tokimeki/lib/pcev.htm](http://www.big.or.jp/~t
 (I'll follow up to get this translated soon)
 
 
-## Tengai Makyou II Manji Maru
+### Tengai Makyou II Manji Maru
 
 Several bugs related to battery backup memory, if the memory is full or nearly full at game start.
 
